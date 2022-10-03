@@ -1,0 +1,11 @@
+
+
+
+
+export const CHANGE__FUNCTION="CHNAGE__FUNCTION"
+
+export const DELETE_SEARCH="DELETE_SEARCH"
+
+export const ENTER_PRESSED="ENTER_PRESSED"
+
+export const HANDLE_SWITCH="HANDLE_SWITCH"

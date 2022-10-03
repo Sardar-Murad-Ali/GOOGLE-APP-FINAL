@@ -1,0 +1,49 @@
+.headers__Main{
+    display: flex;
+justify-content: space-around;
+align-items: center;
+/* background-color: rgb(216, 222, 233); */
+height:80px;
+}
+
+.google{
+    color: gray;
+    cursor: pointer;
+    margin-top: 20px;
+}
+
+.search{
+    margin-top: 20px;
+    color: gray;
+    margin-left: 20px;
+    margin-right: 60px;
+    cursor:pointer;
+}
+
+.close{
+    color: gray;
+    margin-top: 20px;
+    cursor: pointer;
+}
+
+.switch{
+    margin-top: 15px;
+    cursor: pointer;
+    /* background-color: blue; */
+
+}
+
+.headers__Wrapper1{
+    display: flex;
+    /* margin-top: 30px; */
+}
+.icons{
+    display: flex;
+}
+
+
+@media screen and (max-width:700px){
+    .icons{
+        display: none;
+    }
+}
